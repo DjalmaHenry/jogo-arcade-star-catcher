@@ -1,0 +1,27 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.start_project",
+  "privateKey": "",
+  "renderMode": "2",
+  "startScene": "117569d9-875a-42c1-9387-9d04f07c253e",
+  "title": "Arcade_Star_Catcher",
+  "webOrientation": "auto"
+}
